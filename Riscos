@@ -1,0 +1,144 @@
+Riscos por categoria:
+
+Organizacional:
+
+
+Dependências 
+do projeto:
+ Dependência de informações precisas sobre cuidados com as plantas, que podem ser obtidas por meio de parcerias com especialistas em jardinagem, botânicos ou bancos de dados confiáveis.
+
+
+
+Priorização:
+ Se os testes de qualidade e correções de bugs não forem priorizados, o aplicativo pode conter erros ou falhas que afetam sua estabilidade e confiabilidade, levando a avaliações negativas e perda de reputação.
+
+
+Gerenciamento de projeto:
+
+
+Execução:
+Sem a execução ou uma execução mal feita todos os recursos alocados para o projeto, incluindo tempo, dinheiro e esforço da equipe, seriam desperdiçados, sem nenhum retorno tangível ou benefício obtido.
+
+Controle:
+ A falta de monitoramento e intervenção pode levar a atrasos na conclusão do projeto, já que os problemas não são identificados e resolvidos a tempo.
+ Sem controle sobre os riscos do projeto, os problemas potenciais podem passar despercebidos até que seja tarde demais para mitigá-los, colocando em risco o sucesso geral do projeto.
+
+
+Técnicos:
+
+
+Desemprenho:
+ Um desempenho ruim do aplicativo pode levar os usuários a abandoná-lo em favor de aplicativos concorrentes que oferecem uma experiência mais suave e responsiva. Isso pode resultar na perda de usuários e dificultar a construção de uma base de usuários fiel.
+
+Qualidade:
+ Ignorar a qualidade durante o desenvolvimento inicial pode levar a problemas que exigem correções significativas e custosas no futuro. Isso pode incluir debugging, retrabalho de funcionalidades e ajustes na interface do usuário para melhorar a qualidade do aplicativo.
+
+
+Externos
+
+
+Condições climáticas 
+ Desastres naturais, como inundações ou tempestades, podem interromper a infraestrutura de comunicação ou afetar a disponibilidade de energia, prejudicando a operação do aplicativo.
+ 
+
+Clientes: 
+ Mudanças nas preferências ou comportamentos dos usuários, como a adoção de novas tecnologias ou a preferência por métodos alternativos de cuidado de plantas, podem afetar a demanda pelo aplicativo.
+
+ Planos B para Riscos por Categoria
+
+1. Riscos Organizacionais
+
+**Dependências do Projeto:**
+- **Dependência de Informações sobre Cuidados com as Plantas**
+  - **Plano B:**
+ Desenvolver uma base de conhecimento interna com a ajuda de especialistas contratados temporariamente. Criar parcerias com múltiplos especialistas para diversificar as fontes de informações. Manter um backup de dados offline para acesso durante interrupções.
+
+**Priorização:**
+- **Plano B:** 
+Implementar um sistema de priorização automatizado com base em métricas de impacto e urgência. Alocar uma equipe dedicada exclusivamente à correção de bugs e testes de qualidade. Estabelecer um protocolo para revisões regulares de qualidade e usabilidade do aplicativo.
+
+2. Gerenciamento de Projeto
+
+**Execução:**
+- **Plano B:**
+ Desenvolver um plano de execução detalhado com marcos e metas claras. Realizar revisões semanais para monitorar o progresso e ajustar o cronograma conforme necessário. Utilizar metodologias ágeis para permitir adaptações rápidas às mudanças.
+
+**Controle:**
+- **Plano B:**
+ Implementar ferramentas de monitoramento e relatórios automáticos. Designar um gestor de risco para monitorar continuamente o projeto. Realizar auditorias regulares e revisões de desempenho para identificar e resolver problemas precocemente.
+
+3. Riscos Técnicos
+
+**Desempenho:**
+- **Plano B:** 
+Desenvolver uma versão de contingência do aplicativo com funcionalidades básicas que consomem menos recursos. Utilizar ferramentas de monitoramento de desempenho para detectar e corrigir problemas rapidamente. Manter um ambiente de teste robusto para simular diferentes condições de uso.
+
+**Qualidade:**
+- **Plano B:** 
+Estabelecer uma fase de testes beta com um grupo selecionado de usuários para feedback inicial. Implementar um ciclo contínuo de testes e revisões de código. Alocar tempo e recursos suficientes para manutenção e melhorias contínuas.
+
+4. Riscos Externos
+
+**Condições Climáticas:**
+- **Plano B:** 
+Utilizar infraestruturas de nuvem com redundância geográfica para garantir a continuidade do serviço. Desenvolver protocolos de recuperação de desastres e planos de comunicação de emergência para usuários. Manter uma fonte de energia alternativa, como geradores, para operações críticas.
+
+**Clientes:**
+- **Plano B:**
+ Realizar pesquisas de mercado regulares para antecipar mudanças nas preferências dos usuários. Desenvolver funcionalidades flexíveis que possam ser rapidamente adaptadas às novas demandas. Manter um canal de feedback aberto e responsivo para ajustar o aplicativo conforme necessário.
+
+
+Identificar riscos 
+
+ Organizacional:
+
+1. **Dependências do Projeto:**
+   - **Análise de Stakeholders:** Identificar e engajar especialistas em jardinagem, botânicos e bancos de dados confiáveis.
+   - **Revisões de Parcerias:** Avaliar regularmente a qualidade e a confiabilidade das informações fornecidas pelos parceiros.
+   - **Contratos de Serviço:** Estabelecer acordos claros com os especialistas para garantir a continuidade e a qualidade das informações.
+
+2. **Priorização:**
+   - **Matriz de Priorização:** Utilizar uma matriz de priorização para classificar tarefas com base na importância e urgência.
+   - **Scrum Meetings:** Realizar reuniões diárias de Scrum para revisar o progresso e ajustar prioridades conforme necessário.
+   - **Ferramentas de Gestão de Tarefas:** Utilizar ferramentas como Jira ou Trello para monitorar e priorizar tarefas de desenvolvimento.
+
+Gerenciamento de Projeto:
+
+1. **Execução:**
+   - **Planos de Projeto:** Desenvolver um plano de projeto detalhado com cronogramas, recursos necessários e entregas esperadas.
+   - **Metodologias Ágeis:** Adotar metodologias ágeis para permitir ajustes contínuos e melhor utilização dos recursos.
+   - **Relatórios de Progresso:** Produzir relatórios de progresso regulares para acompanhar o uso dos recursos e o progresso do projeto.
+
+2. **Controle:**
+   - **KPIs e Métricas:** Definir indicadores chave de desempenho (KPIs) para monitorar o progresso do projeto.
+   - **Ferramentas de Monitoramento:** Utilizar ferramentas de monitoramento de projetos para rastrear prazos, recursos e qualidade.
+   - **Revisões Regulares:** Realizar revisões regulares do projeto para identificar e mitigar problemas precocemente.
+
+Técnicos:
+
+1. **Desempenho:**
+   - **Testes de Performance:** Realizar testes de carga e stress para garantir que o aplicativo suporte o uso esperado.
+   - **Monitoramento de Performance:** Utilizar ferramentas como New Relic ou AppDynamics para monitorar o desempenho em tempo real.
+   - **Otimização Contínua:** Implementar práticas de otimização contínua, como revisão de código e ajustes de infraestrutura.
+
+2. **Qualidade:**
+   - **Revisões de Código:** Realizar revisões de código frequentes para garantir a qualidade do desenvolvimento.
+   - **Automação de Testes:** Implementar testes automatizados para detectar bugs e problemas de qualidade rapidamente.
+   - **Feedback do Usuário:** Coletar e analisar feedback dos usuários para identificar áreas de melhoria.
+
+Externos:
+
+1. **Condições Climáticas:**
+   - **Planos de Contingência:** Desenvolver planos de contingência para desastres naturais, incluindo backup de dados e continuidade de negócios.
+   - **Monitoramento Climático:** Utilizar serviços de monitoramento climático para prever e preparar para condições adversas.
+   - **Infraestrutura Redundante:** Investir em infraestrutura redundante para garantir a disponibilidade do aplicativo em caso de interrupções.
+
+2. **Clientes:**
+   - **Pesquisa de Mercado:** Realizar pesquisas de mercado regulares para entender as mudanças nas preferências dos usuários.
+   - **Análise de Dados:** Utilizar análise de dados para identificar tendências e comportamentos dos usuários.
+   - **Inovação Contínua:** Manter um ciclo contínuo de inovação para adaptar o aplicativo às novas tecnologias e preferências dos usuários.
+
+
+
+
+
