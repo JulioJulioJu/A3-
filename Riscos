@@ -88,56 +88,6 @@ Utilizar infraestruturas de nuvem com redundância geográfica para garantir a c
  Realizar pesquisas de mercado regulares para antecipar mudanças nas preferências dos usuários. Desenvolver funcionalidades flexíveis que possam ser rapidamente adaptadas às novas demandas. Manter um canal de feedback aberto e responsivo para ajustar o aplicativo conforme necessário.
 
 
-Identificar riscos 
-
- Organizacional:
-
-1. **Dependências do Projeto:**
-   - **Análise de Stakeholders:** Identificar e engajar especialistas em jardinagem, botânicos e bancos de dados confiáveis.
-   - **Revisões de Parcerias:** Avaliar regularmente a qualidade e a confiabilidade das informações fornecidas pelos parceiros.
-   - **Contratos de Serviço:** Estabelecer acordos claros com os especialistas para garantir a continuidade e a qualidade das informações.
-
-2. **Priorização:**
-   - **Matriz de Priorização:** Utilizar uma matriz de priorização para classificar tarefas com base na importância e urgência.
-   - **Scrum Meetings:** Realizar reuniões diárias de Scrum para revisar o progresso e ajustar prioridades conforme necessário.
-   - **Ferramentas de Gestão de Tarefas:** Utilizar ferramentas como Jira ou Trello para monitorar e priorizar tarefas de desenvolvimento.
-
-Gerenciamento de Projeto:
-
-1. **Execução:**
-   - **Planos de Projeto:** Desenvolver um plano de projeto detalhado com cronogramas, recursos necessários e entregas esperadas.
-   - **Metodologias Ágeis:** Adotar metodologias ágeis para permitir ajustes contínuos e melhor utilização dos recursos.
-   - **Relatórios de Progresso:** Produzir relatórios de progresso regulares para acompanhar o uso dos recursos e o progresso do projeto.
-
-2. **Controle:**
-   - **KPIs e Métricas:** Definir indicadores chave de desempenho (KPIs) para monitorar o progresso do projeto.
-   - **Ferramentas de Monitoramento:** Utilizar ferramentas de monitoramento de projetos para rastrear prazos, recursos e qualidade.
-   - **Revisões Regulares:** Realizar revisões regulares do projeto para identificar e mitigar problemas precocemente.
-
-Técnicos:
-
-1. **Desempenho:**
-   - **Testes de Performance:** Realizar testes de carga e stress para garantir que o aplicativo suporte o uso esperado.
-   - **Monitoramento de Performance:** Utilizar ferramentas como New Relic ou AppDynamics para monitorar o desempenho em tempo real.
-   - **Otimização Contínua:** Implementar práticas de otimização contínua, como revisão de código e ajustes de infraestrutura.
-
-2. **Qualidade:**
-   - **Revisões de Código:** Realizar revisões de código frequentes para garantir a qualidade do desenvolvimento.
-   - **Automação de Testes:** Implementar testes automatizados para detectar bugs e problemas de qualidade rapidamente.
-   - **Feedback do Usuário:** Coletar e analisar feedback dos usuários para identificar áreas de melhoria.
-
-Externos:
-
-1. **Condições Climáticas:**
-   - **Planos de Contingência:** Desenvolver planos de contingência para desastres naturais, incluindo backup de dados e continuidade de negócios.
-   - **Monitoramento Climático:** Utilizar serviços de monitoramento climático para prever e preparar para condições adversas.
-   - **Infraestrutura Redundante:** Investir em infraestrutura redundante para garantir a disponibilidade do aplicativo em caso de interrupções.
-
-2. **Clientes:**
-   - **Pesquisa de Mercado:** Realizar pesquisas de mercado regulares para entender as mudanças nas preferências dos usuários.
-   - **Análise de Dados:** Utilizar análise de dados para identificar tendências e comportamentos dos usuários.
-   - **Inovação Contínua:** Manter um ciclo contínuo de inovação para adaptar o aplicativo às novas tecnologias e preferências dos usuários.
-
 
 
 
